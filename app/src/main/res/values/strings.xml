@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alcool ou gasolina</string>
+    <string name="txt_resultado_gasolina">Gasolina é a melhor opção!!!</string>
+    <string name="txt_resultado_alcool">Alcool é a melhor opção!!!</string>
+    <string name="txt_preencha_campos">Preencha os valores primeiro!</string>
+    <string name="cd_logotipo">Logotipo</string>
+    <string name="tv_melhor_forma_de_abastecimento">Saiba a melhor forma de abastecimento para seu carro!</string>
+    <string name="ht_alcool_ex_3_65">Preço Alcool ex. 3.65</string>
+    <string name="ht_gasolina_ex_5_37">Preço Gasolina ex. 5.37</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="tv_resultado">Resultado</string>
+</resources>
